@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a Cloud Support Engineer with a passion for te
 
 - 💞️ **I’m looking to collaborate on**: Open-source projects related to cloud infrastructure, automation tools, or anything that helps improve the efficiency of cloud environments. 
 
-- 📫 **How to reach me**: You can connect with me via [LinkedIn](https://www.linkedin.com/in/yourprofile) or email me at [your.email@example.com](mailto:your.email@example.com). I'm also active on Twitter [@vmzilla](https://twitter.com/vmzilla) where I share insights and updates.
+- 📫 **How to reach me**: You can connect with me via [LinkedIn](https://in.linkedin.com/in/akhil-uthaman) or email me at [aqhil10@gmail.com](mailto:aqhil10@gmail.com).
 
 - 😄 **Pronouns**: He/Him
 
