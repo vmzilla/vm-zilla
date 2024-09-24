@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a Cloud Support Engineer with a passion for te
 
 - 👀 **I’m interested in**: Cloud computing, DevOps practices, containerization (Docker, Kubernetes), and automation. I love exploring new technologies and finding innovative solutions to complex problems.
 
-- 🌱 **I’m currently learning**: Advanced cloud architecture, serverless computing, and the latest trends in AI/ML. I'm always looking to expand my skill set and stay updated with industry best practices.
+- 🌱 **I’m currently learning**: git inorder to gain git foundation certificate!
 
 - 💞️ **I’m looking to collaborate on**: Open-source projects related to cloud infrastructure, automation tools, or anything that helps improve the efficiency of cloud environments. 
 
