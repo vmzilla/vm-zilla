@@ -12,8 +12,6 @@ Welcome to my GitHub profile! I'm a Cloud Support Engineer with a passion for te
 
 - 😄 **Pronouns**: He/Him
 
-- ⚡ **Fun fact**: I once built a fully automated smart home system using a combination of cloud services and IoT devices, and it’s still running smoothly!
-
 Feel free to explore my repositories and let’s connect if you’re interested in working together or discussing technology!
 
 Happy coding! 🚀
