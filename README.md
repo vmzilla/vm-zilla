@@ -6,14 +6,12 @@ Welcome to my GitHub profile! I'm a Cloud Support Engineer with a passion for te
 
 - 🌱 **I’m currently learning**:
 - [X] CKA Certification
-- [ ] Git Hub Foundation  (In Progress)
+- [X] Git Hub Foundation  (In Progress)
 - [ ] AWS Solutions Architect
 
 - 💞️ **I’m looking to collaborate on**: Open-source projects related to cloud infrastructure, automation tools, or anything that helps improve the efficiency of cloud environments. 
 
 - 📫 **How to reach me**: You can connect with me via [LinkedIn](https://in.linkedin.com/in/akhil-uthaman) or email me at [aqhil10@gmail.com](mailto:aqhil10@gmail.com).
-
-- 😄 **Pronouns**: He/Him
 
 Feel free to explore my repositories and let’s connect if you’re interested in working together or discussing technology!
 
