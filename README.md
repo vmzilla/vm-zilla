@@ -2,7 +2,7 @@
 
 I'm a Cloud Support Engineer with a passion for technology and problem-solving. I am interested in Cloud computing, DevOps practices, containerization (Docker, Kubernetes), and automation. I love exploring new technologies and finding innovative solutions to complex problems.
 
-- 🌱 **I’m currently learning**:
+🌱 **I’m currently learning**:
 - [X] CKA Certification
 - [X] Git Hub Foundation  
 - [ ] AWS Solutions Architect (In Progress)
